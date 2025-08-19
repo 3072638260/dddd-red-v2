@@ -1,0 +1,18 @@
+# 红队自动化扫描工具依赖库
+# Python版本要求: >= 3.8
+
+# 必需依赖（用于彩色输出和美观界面）
+colorama>=0.4.4           # 彩色终端输出，跨平台支持
+
+# 可选依赖（用于增强功能）
+# requests>=2.28.0          # HTTP请求库（用于API调用）
+# tqdm>=4.64.0              # 进度条显示（已内置简单进度条）
+# psutil>=5.9.0             # 系统资源监控
+# pyyaml>=6.0               # YAML配置文件解析
+
+# 安装命令:
+# pip install colorama
+# 或者安装所有依赖:
+# pip install -r requirements.txt
+
+# 注意：如果没有安装colorama，程序仍可正常运行，只是没有彩色输出效果
