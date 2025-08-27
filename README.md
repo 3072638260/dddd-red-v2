@@ -1,4 +1,4 @@
-# DDDD-REDS v2.0 - 红队自动化扫描工具 (信息收集缝合版)
+# DDDD-RED v2.0 - 红队自动化扫描工具 (信息收集缝合版)
 
 ## 📋 项目简介
 
@@ -48,8 +48,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/3072638260/dddd-red-v2.git
-cd dddd-red-v2
+git clone https://github.com/3072638260/dddd-reds-v2.git
+cd dddd-reds-v2
 ```
 
 ### 2. 安装依赖
@@ -136,7 +136,7 @@ python script.py -t targets.txt -o results \\
 ## 📁 项目结构
 
 ```
-dddd-red-v2/
+dddd-reds-v2/
 ├── script.py                    # 主扫描脚本
 ├── demo_output.py               # 输出效果演示
 ├── requirements.txt             # 依赖库列表
@@ -298,9 +298,9 @@ scan_results/
 
 如有问题或建议，请通过以下方式联系：
 
-- 提交 Issue：[GitHub Issues](https://github.com/3072638260/dddd-red-v2/issues)
+- 提交 Issue：[GitHub Issues](https://github.com/3072638260/dddd-reds-v2/issues)
 - 查看文档：项目 Wiki 页面
-- 社区讨论：[Discussions](https://github.com/3072638260/dddd-red-v2/discussions)
+- 社区讨论：[Discussions](https://github.com/3072638260/dddd-reds-v2/discussions)
 
 ## 📄 许可证
 
